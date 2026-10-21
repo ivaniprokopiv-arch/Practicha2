@@ -1,0 +1,3 @@
+PORT=3111
+JWT_SECRET=super_secret_jwt_access_key_12345
+JWT_EXPIRES_IN=1h
